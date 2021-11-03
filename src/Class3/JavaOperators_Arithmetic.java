@@ -97,10 +97,11 @@ public class JavaOperators_Arithmetic {
          *
          * post -> use the current value of variable for whatever action/purpose,
          *          then increment the value in the variable.
+         *          (use present-value for action, perform-increment)
          *
          * pre -> increment the value in the variable
          *          then use the latest value of variable for whatever action/purpose.
-         *
+         *          (perform-increment, use present-value for action)
          */
 
         int inc = 5;    // inc = 5
