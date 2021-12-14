@@ -6,6 +6,8 @@ public class Homework11 {
      *
      * Due Date: Wed, Dec 15 2021
      *
+     * Try to submit code by creating a merge request.
+     *
      * Create a method that will return a timeline of given input data-points
      * -> timeline should be (hour am/pm) with 2 hour interval from the current time.
      *
